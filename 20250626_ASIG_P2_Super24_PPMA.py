@@ -1,7 +1,4 @@
-##PRUEBA TECNICA - SUPER 24
-#Autor: Pedro Pablo Marroquín Alfaro
-#SE PROHÍBE EL USO TOTAL Y PARCIAL COMERCIAL DEL MISMO SIN PREVIA AUTORIZACIÓN DEL AUTOR.
-#Se recalca que son 622 tiendas las de super 24 y el scprit ya está probado que si las obtiene, pero por razones éticas y de seguridad se limitó a 100 tiendas.
+##Hey, just a way to retrieve geolocation from a webpage, including the complete address and name
 
 import re
 from pathlib import Path
@@ -298,6 +295,6 @@ if __name__ == "__main__":
 
 
 
-####QUE OTRO ESTER EGG?
-####SIIIIII,AAHHHHH
-#de verdad si espero que no todo esto no sea con otras intenciones. el acceso al mercado laboral a las juventudes es muy complicado. Y si lo es, de igual forma lo subiré a Github, asi que por lo menos todos el mundo lo podrá usar. BESOOSSSSSSSSSSSSSSSS 
+###sabes que es abusivo? Que te hagan perder tiempo en una prueba técnica, que te cuestionen por qué decidiste entregar una muestra, que les expliques tus razones y que aún así se ofendan.
+### sermonear a las juventudes que somos unos huevones porque no queremos que nos utlicen y que queremos perder para ganar es pura cagada
+###nahhhh, una cosa pero barbara. Pero bueno, para que vean que sí le sé.
